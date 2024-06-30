@@ -12,4 +12,7 @@
 # xhofe/alist
 # vaultwarden/server
 
-portainer/portainer-ce
+# portainer/portainer-ce
+
+nginx
+suisuijiang/fiora
