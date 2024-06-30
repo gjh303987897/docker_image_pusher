@@ -7,7 +7,9 @@
 
 # nyanmisaka/jellyfin
 
-ubuntu
-almalinux
-xhofe/alist
-vaultwarden/server
+# ubuntu
+# almalinux
+# xhofe/alist
+# vaultwarden/server
+
+portainer/portainer-ce
