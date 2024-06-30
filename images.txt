@@ -5,4 +5,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-nyanmisaka/jellyfin
+# nyanmisaka/jellyfin
+
+ubuntu
+almalinux
+xhofe/alist
+vaultwarden/server
