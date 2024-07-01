@@ -14,5 +14,7 @@
 
 # portainer/portainer-ce
 
-nginx
-suisuijiang/fiora
+# nginx
+# suisuijiang/fiora
+
+linuxserver/calibre-web
