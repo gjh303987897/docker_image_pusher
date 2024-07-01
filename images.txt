@@ -17,4 +17,13 @@
 # nginx
 # suisuijiang/fiora
 
-linuxserver/calibre-web
+# linuxserver/calibre-web
+
+snowdreamtech/frpc
+snowdreamtech/frps
+p3terx/aria2-pro
+diygod/rsshub
+foamzou/melody
+redis
+mysql
+wangqiru/ttrss
