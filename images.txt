@@ -30,5 +30,7 @@
 
 # cloudreve/cloudreve
 
-xiaoyaliu/alist
-xhofe/alist-aria2
+# xiaoyaliu/alist
+# xhofe/alist-aria2
+
+ydkn/cups
