@@ -28,4 +28,7 @@
 # mysql
 # wangqiru/ttrss
 
-cloudreve/cloudreve
+# cloudreve/cloudreve
+
+xiaoyaliu/alist
+xhofe/alist-aria2
