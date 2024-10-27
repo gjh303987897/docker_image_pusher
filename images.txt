@@ -33,4 +33,8 @@
 # xiaoyaliu/alist
 # xhofe/alist-aria2
 
-ydkn/cups
+# ydkn/cups
+
+dezhao/immich_cn:1.93.3
+tensorchord/pgvecto-rs:pg14-v0.1.11
+debian
