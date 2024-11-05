@@ -39,4 +39,5 @@
 # tensorchord/pgvecto-rs:pg14-v0.1.11
 # debian
 
-rustdesk-server
+rustdesk/rustdesk-server-s6:latest-amd64
+
