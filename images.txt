@@ -35,6 +35,8 @@
 
 # ydkn/cups
 
-dezhao/immich_cn:1.93.3
-tensorchord/pgvecto-rs:pg14-v0.1.11
-debian
+# dezhao/immich_cn:1.93.3
+# tensorchord/pgvecto-rs:pg14-v0.1.11
+# debian
+
+rustdesk-server
