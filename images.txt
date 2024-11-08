@@ -39,5 +39,6 @@
 # tensorchord/pgvecto-rs:pg14-v0.1.11
 # debian
 
-rustdesk/rustdesk-server-s6:latest-amd64
+# rustdesk/rustdesk-server-s6:latest-amd64
 
+traefik:v3.2
