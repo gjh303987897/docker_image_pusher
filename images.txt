@@ -41,4 +41,6 @@
 
 # rustdesk/rustdesk-server-s6:latest-amd64
 
-traefik:v3.2
+# traefik:v3.2
+
+docker pull fooololo/aipan-netdisk-search
