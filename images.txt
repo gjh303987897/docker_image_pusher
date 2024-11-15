@@ -43,4 +43,4 @@
 
 # traefik:v3.2
 
-docker pull fooololo/aipan-netdisk-search
+fooololo/aipan-netdisk-search
