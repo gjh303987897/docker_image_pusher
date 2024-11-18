@@ -45,4 +45,6 @@
 
 # fooololo/aipan-netdisk-search
 
+# jellyfin/jellyfin
+
 jellyfin/jellyfin
