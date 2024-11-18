@@ -43,4 +43,6 @@
 
 # traefik:v3.2
 
-fooololo/aipan-netdisk-search
+# fooololo/aipan-netdisk-search
+
+jellyfin/jellyfin
