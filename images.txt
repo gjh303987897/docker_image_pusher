@@ -49,4 +49,6 @@
 
 # jellyfin/jellyfin
 
-deluan/navidrome
+# deluan/navidrome
+
+minio/minio
