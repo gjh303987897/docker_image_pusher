@@ -53,4 +53,6 @@
 
 # minio/minio
 
-chigusa/bililive-go
+# chigusa/bililive-go
+
+weejewel/wg-easy
