@@ -55,4 +55,6 @@
 
 # chigusa/bililive-go
 
-weejewel/wg-easy
+# weejewel/wg-easy
+
+adolfintel/speedtest
