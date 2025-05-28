@@ -61,4 +61,6 @@
 
 # pixman/pixman
 
-seafileltd/seafile-mc:11.0-latest
+# seafileltd/seafile-mc:11.0-latest
+
+memcached:1.6.18
