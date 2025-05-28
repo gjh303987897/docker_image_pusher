@@ -59,4 +59,6 @@
 
 # adolfintel/speedtest
 
-pixman/pixman
+# pixman/pixman
+
+seafileltd/seafile-mc:11.0-latest
